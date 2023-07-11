@@ -1,0 +1,25 @@
+{
+    "firstName":"William",
+    "lastName":"Austin",
+    "customerId":"1001",
+    "wishlist": [
+        {
+            "title":"A Tale of Two Cities",
+            "genre":"Historical Fiction",
+            "author":"Charles Dickens",
+            "bookId":"5001"
+        },
+        {
+            "title":"Dune",
+            "genre":"Science Fiction",
+            "author":"Frank Herbert",
+            "bookId":"5001"
+        },
+        {
+            "title":"Harry Potter and the Prisoner of Azkaban",
+            "genre":"Fantasy",
+            "author":"J.K. Rowling",
+            "bookId":"5001"
+        }
+    ]
+}
