@@ -1,0 +1,74 @@
+[
+    {
+        "title":"A Tale of Two Cities",
+        "genre":"Historical Fiction",
+        "author":"Charles Dickens",
+        "bookId":"2001"
+    },
+    {
+        "title":"Dune",
+        "genre":"Science Fiction",
+        "author":"Frank Herbert",
+        "bookId":"3002"
+    },
+    {
+        "title":"Harry Potter and the Sorcerer's Stone",
+        "genre":"Fantasy",
+        "author":"J.K. Rowling",
+        "bookId":"4001"
+    },
+    {
+        "title":"Harry Potter and the Chamber of Secrets",
+        "genre":"Fantasy",
+        "author":"J.K. Rowling",
+        "bookId":"4002"
+    },
+    {
+        "title":"Harry Potter and the Prisoner of Azkaban",
+        "genre":"Fantasy",
+        "author":"J.K. Rowling",
+        "bookId":"4003"
+    },
+    {
+        "title":"Harry Potter and the Goblet of Fire",
+        "genre":"Fantasy",
+        "author":"J.K. Rowling",
+        "bookId":"4004"
+    },
+    {
+        "title":"Harry Potter and the Order of the Phoenix",
+        "genre":"Fantasy",
+        "author":"J.K. Rowling",
+        "bookId":"4005"
+    },
+    {
+        "title":"Harry Potter and the Half Blood Prince",
+        "genre":"Fantasy",
+        "author":"J.K. Rowling",
+        "bookId":"4006"
+    },
+    {
+        "title":"Harry Potter and the Deathly Hallows",
+        "genre":"Fantasy",
+        "author":"J.K. Rowling",
+        "bookId":"4007"
+    },
+    {
+        "title":"50 Shades of Grey",
+        "genre":"Romance",
+        "author":"E.L. James",
+        "bookId":"5001"
+    },
+    {
+        "title":"50 Shades Darker",
+        "genre":"Romance",
+        "author":"E.L. James",
+        "bookId":"5002"
+    },
+    {
+        "title":"50 Shades Freed",
+        "genre":"Romance",
+        "author":"E.L. James",
+        "bookId":"5003"
+    }
+]
