@@ -1,15 +1,63 @@
 [
     {
         "title":"A Tale of Two Cities",
-        "genre":"Historical Fiction",
+        "genre":"Fiction",
         "author":"Charles Dickens",
         "bookId":"2001"
+    },
+    {
+        "title":"Great Expectations",
+        "genre":"Fiction",
+        "author":"Charles Dickens",
+        "bookId":"2002"
+    },
+    {
+        "title":"Oliver Twist",
+        "genre":"Fiction",
+        "author":"Charles Dickens",
+        "bookId":"2003"
+    },
+    {
+        "title":"The Scarlet Letter",
+        "genre":"Fiction",
+        "author":"Nathaniel Hawthorne",
+        "bookId":"2004"
     },
     {
         "title":"Dune",
         "genre":"Science Fiction",
         "author":"Frank Herbert",
+        "bookId":"3001"
+    },
+    {
+        "title":"Dune Messiah",
+        "genre":"Science Fiction",
+        "author":"Frank Herbert",
         "bookId":"3002"
+    },
+    {
+        "title":"Children of Dune",
+        "genre":"Science Fiction",
+        "author":"Frank Herbert",
+        "bookId":"3003"
+    },
+    {
+        "title":"God Emperor of Dune",
+        "genre":"Science Fiction",
+        "author":"Frank Herbert",
+        "bookId":"3004"
+    },
+    {
+        "title":"Heretics of Dune",
+        "genre":"Science Fiction",
+        "author":"Frank Herbert",
+        "bookId":"3005"
+    },
+    {
+        "title":"Chapterhouse: Dune",
+        "genre":"Science Fiction",
+        "author":"Frank Herbert",
+        "bookId":"3006"
     },
     {
         "title":"Harry Potter and the Sorcerer's Stone",
@@ -54,6 +102,30 @@
         "bookId":"4007"
     },
     {
+        "title":"The Hobbit",
+        "genre":"Fantasy",
+        "author":"J.R.R. Tolkien",
+        "bookId":"4008"
+    },
+    {
+        "title":"The Lord of the Rings - The Fellowship of the Ring",
+        "genre":"Fantasy",
+        "author":"J.R.R. Tolkien",
+        "bookId":"4009"
+    },
+    {
+        "title":"The Lord of the Rings - The Two Towers",
+        "genre":"Fantasy",
+        "author":"J.R.R. Tolkien",
+        "bookId":"4010"
+    },
+    {
+        "title":"The Lord of the Rings - The Return of the King",
+        "genre":"Fantasy",
+        "author":"J.R.R. Tolkien",
+        "bookId":"4011"
+    },
+    {
         "title":"50 Shades of Grey",
         "genre":"Romance",
         "author":"E.L. James",
@@ -70,5 +142,41 @@
         "genre":"Romance",
         "author":"E.L. James",
         "bookId":"5003"
+    },
+    {
+        "title":"The Court of Thorns and Roses",
+        "genre":"Romance",
+        "author":"Sarah J. Maas",
+        "bookId":"5004"
+    },
+    {
+        "title":"The Song of Achilles",
+        "genre":"Romance",
+        "author":"Madeline Miller",
+        "bookId":"5005"
+    },
+    {
+        "title":"The Silent Patient",
+        "genre":"Mystery",
+        "author":"Alex Michaelides",
+        "bookId":"6001"
+    },
+    {
+        "title":"The Name of the Rose",
+        "genre":"Mystery",
+        "author":"Umberto Eco",
+        "bookId":"6002"
+    },
+    {
+        "title":"Gone Girl",
+        "genre":"Mystery",
+        "author":"Gilian Flynn",
+        "bookId":"6003"
+    },
+    {
+        "title":"The Girl with the Dragon Tattoo",
+        "genre":"Mystery",
+        "author":"Stieg Larsson",
+        "bookId":"6004"
     }
 ]
