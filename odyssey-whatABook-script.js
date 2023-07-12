@@ -1,5 +1,5 @@
 /**
-	Title: whatABook-scripts.js
+	Title: odyssey-whatABook-scripts.js
     Author: William John Austin & TiaNeicia Mosley
     Date: 12 July 2023
     Description: MongoDB Shell Scripts for the Customer and Books collections for What-A-Book Project.
@@ -266,7 +266,7 @@ rose = {
 girl = {
     "title":"Gone Girl",
     "genre":"Mystery",
-    "author":"Gilian Flynn",
+    "author":"Gillian Flynn",
     "bookId":"6003"
 }
 dragon = {
