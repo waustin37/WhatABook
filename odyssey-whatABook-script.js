@@ -1,6 +1,6 @@
 /**
 	Title: odyssey-whatABook-scripts.js
-    Author: William John Austin & TiaNeicia Mosley
+    Author: William John Austin & TiaNiecia Mosley
     Date: 12 July 2023
     Description: MongoDB Shell Scripts for the Customer and Books collections for What-A-Book Project.
  */
@@ -282,6 +282,8 @@ db.books.insertOne(rose)
 db.books.insertOne(girl)
 db.books.insertOne(dragon)
 
+
+//Customers
 will = {
     "firstName":"William",
     "lastName":"Austin",
