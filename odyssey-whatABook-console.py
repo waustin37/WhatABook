@@ -9,8 +9,6 @@
 #Import the Mongo Client so we can use Mongo in our Console
 
 from pymongo import MongoClient
-import certifi
-
 
 client = MongoClient('mongodb+srv://web335_user:s3cret@cluster0.hkbvlmn.mongodb.net/?retryWrites=true&w=majority')
 
